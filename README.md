@@ -15,6 +15,7 @@ This project demonstrates the usage of an SSD1306 OLED display interfaced with a
 - SSD1306 I2C OLED Display
 - Buttons connected to GPIO
 - UART-to-USB interface for serial communication
+
   [Hardware](https://drive.google.com/uc?export=view&id=1ClM6-yfTX0s4hKgUrnlFBUfKFo-VXfCr)
 
 ## Node/Task Diagram
