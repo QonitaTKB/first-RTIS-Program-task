@@ -28,7 +28,7 @@ This project demonstrates the usage of an SSD1306 OLED display interfaced with a
 [Diagram task](https://drive.google.com/uc?export=view&id=1EqkuRLFuo2aQudnx5blB0JFDaCvHuCCu)
 
 ## Video
-[Video Demo](https://drive.google.com/uc?export=view&id=12W8rBGFNa61qh74dkdPl1ldZqX-xp7_A)
+[Video Demo](https://drive.google.com/file/d/12W8rBGFNa61qh74dkdPl1ldZqX-xp7_A/view?usp=sharing)
 
 ![](https://github.com/QonitaTKB/first-RTOS-Program-task/blob/master/96s21x.gif)
 
