@@ -30,6 +30,6 @@ This project demonstrates the usage of an SSD1306 OLED display interfaced with a
 ## Video
 [Video Demo](https://drive.google.com/file/d/12W8rBGFNa61qh74dkdPl1ldZqX-xp7_A/view?usp=sharing)
 
-![](https://github.com/QonitaTKB/first-RTOS-Program-task/blob/master/96s21x.gif)
+
 
 
