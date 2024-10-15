@@ -25,6 +25,8 @@ This project demonstrates the usage of an SSD1306 OLED display interfaced with a
 - **RTOS Threads:** Manages tasks for ADC reading, button input handling, and UART display.
 - **ADC Reading:** Reads voltage levels through the STM32's ADC and displays them.
 
+[Diagram task](https://drive.google.com/uc?export=view&id=1EqkuRLFuo2aQudnx5blB0JFDaCvHuCCu)
+
 ## Video
 [Video Demo](https://drive.google.com/uc?export=view&id=12W8rBGFNa61qh74dkdPl1ldZqX-xp7_A)
 
