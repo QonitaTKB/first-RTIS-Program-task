@@ -16,7 +16,7 @@ This project demonstrates the usage of an SSD1306 OLED display interfaced with a
 - Buttons connected to GPIO
 - UART-to-USB interface for serial communication
 
-  [Hardware](https://drive.google.com/uc?export=view&id=1ClM6-yfTX0s4hKgUrnlFBUfKFo-VXfCr)
+  [Hardware](https://drive.google.com/file/d/1zHXkW83XD7y67iWIwSMoqJWUGIPwPPk5/view?usp=sharing)
 
 ## Node/Task Diagram
 - **SSD1306 OLED Display:** Displays messages and ADC values.
@@ -28,7 +28,7 @@ This project demonstrates the usage of an SSD1306 OLED display interfaced with a
 [Diagram task](https://drive.google.com/uc?export=view&id=1EqkuRLFuo2aQudnx5blB0JFDaCvHuCCu)
 
 ## Video
-[Video Demo](https://drive.google.com/file/d/12W8rBGFNa61qh74dkdPl1ldZqX-xp7_A/view?usp=sharing)
+[Video Demo](https://drive.google.com/file/d/1IdvUEhwkQirWZEEij_KdoddGu9ve1Q9q/view?usp=sharing)
 
 
 
